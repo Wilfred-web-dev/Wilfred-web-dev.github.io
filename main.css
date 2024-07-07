@@ -1,0 +1,22 @@
+body {
+    background-color: #012716;
+}
+
+.pic-border {
+    border: 5px Solid #011a0e;
+}
+.font-home {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.font-home1 {
+    color: #3BB9FF;
+}
+.containerr {
+    background-color: #072738;
+}
+.logo-text {
+    color: white;
+    font-size: 10rem;
+    font-weight: bolder;
+}
